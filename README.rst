@@ -18,7 +18,7 @@ The client library for
 `Bulk Whois API <https://whois.whoisxmlapi.com/bulk-api>`_
 in Python language.
 
-The minimum Python version is 3.6.
+The minimum Python version is 3.7.
 
 Installation
 ============

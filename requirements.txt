@@ -1,2 +1,2 @@
 requests==2.31.0
-whois-api==1.1.4
+whois-api==1.2.0
